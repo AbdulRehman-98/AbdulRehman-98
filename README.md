@@ -25,7 +25,7 @@
 ### 📬 Reach Me
 
 <p align="left">
-  <a href="mailto:rehmanabdul930@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://linkedin.com/in/abdul--rehman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/AbdulRehman-98"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://drive.google.com/file/d/1DHQ-TG6oDaNMRzmJ5FEUQHlf2KqgLA-w/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-📄-green?style=for-the-badge" /></a>
+  <a href="mailto:rehmanabdul930@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://linkedin.com/in/abdul--rehman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/AbdulRehman-98"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://drive.google.com/file/d/14hU1u92O0-M7AQT-QNkYGjbFwPmxzfao/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-📄-green?style=for-the-badge" /></a>
 </p>
 
 ---
